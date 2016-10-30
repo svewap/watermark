@@ -1,0 +1,7 @@
+
+plugin.tx_watermark.settings {
+
+
+    file = {$plugin.tx_watermark.settings.file}
+
+}
